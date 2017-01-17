@@ -6,3 +6,8 @@ https://www.kaggle.com/c/whats-cooking
 the prediction is 66 percent.
 
 In different verison we used Json instead.
+
+octaveInput_TestSet can be find in the link below.
+
+https://drive.google.com/drive/folders/0B0SWLdF95mIkUmtMYy01bWc4bEk?usp=sharing
+
